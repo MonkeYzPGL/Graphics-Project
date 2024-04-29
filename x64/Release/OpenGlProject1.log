@@ -1,0 +1,13 @@
+﻿  main.cpp
+C:\Users\Sergiu 19 A\Desktop\Sem1\PG\Lab10\OpenGlProject1\main.cpp(158,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Sergiu 19 A\Desktop\Sem1\PG\Lab10\OpenGlProject1\main.cpp(159,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Sergiu 19 A\Desktop\Sem1\PG\Lab10\OpenGlProject1\main.cpp(174,25): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Sergiu 19 A\Desktop\Sem1\PG\Lab10\OpenGlProject1\main.cpp(174,18): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Sergiu 19 A\Desktop\Sem1\PG\Lab10\OpenGlProject1\main.cpp(521,18): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Sergiu 19 A\Desktop\Sem1\PG\Lab10\OpenGlProject1\main.cpp(522,18): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  Generating code
+  2 of 1798 functions ( 0.1%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    12 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  OpenGlProject1.vcxproj -> C:\Users\Sergiu 19 A\Desktop\Sem1\PG\Lab10\OpenGlProject1\x64\Release\OpenGlProject1.exe

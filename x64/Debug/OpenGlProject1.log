@@ -1,0 +1,8 @@
+﻿  main.cpp
+C:\Users\Sergiu 19 A\Desktop\Sem1\PG\Lab10\OpenGlProject1\main.cpp(158,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Sergiu 19 A\Desktop\Sem1\PG\Lab10\OpenGlProject1\main.cpp(159,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Sergiu 19 A\Desktop\Sem1\PG\Lab10\OpenGlProject1\main.cpp(174,25): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Sergiu 19 A\Desktop\Sem1\PG\Lab10\OpenGlProject1\main.cpp(174,18): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Sergiu 19 A\Desktop\Sem1\PG\Lab10\OpenGlProject1\main.cpp(521,18): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Sergiu 19 A\Desktop\Sem1\PG\Lab10\OpenGlProject1\main.cpp(522,18): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  OpenGlProject1.vcxproj -> C:\Users\Sergiu 19 A\Desktop\Sem1\PG\Lab10\OpenGlProject1\x64\Debug\OpenGlProject1.exe
